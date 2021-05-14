@@ -5,7 +5,7 @@ To run the Rest API programs, you need to download the below JAR files:
 
 Current direct downloads
 
-File	Description
+File and Description
 1. rest-assured-4.3.3-dist.zip - REST Assured 4.3.3 (including source and javadocs and dependencies, XmlPath and JsonPath)
 2. json-path-4.3.3-dist.zip	JsonPath 4.3.3 (standalone, including source and javadocs and dependencies)
 3. xml-path-4.3.3-dist.zip	XmlPath 4.3.3 (standalone, including source and javadocs and dependencies)
